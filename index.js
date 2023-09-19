@@ -1,2 +1,2 @@
-console.log('hello world');
-console.log('version 6.0');
+console.log('hello worlds');
+console.log('version 7.0');
